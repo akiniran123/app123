@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'bottom_navigation.dart';
 import 'routes.dart';
 import 'log_in/signin.dart';
 import 'theme.dart';
